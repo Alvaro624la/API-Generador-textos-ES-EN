@@ -1,9 +1,9 @@
-## API-Generador-textos-ES-EN
+# API-Generador-textos-ES-EN
 API que te proporciona textos aleatorios en Español y en Inglés.
 
-# Url:
+## Url:
 https://my-json-server.typicode.com/Alvaro624la/API-Generador-textos-ES-EN/
 
-# Endpoints: 
+## Endpoints: 
 /es
 /en
