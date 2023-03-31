@@ -6,4 +6,5 @@ https://my-json-server.typicode.com/Alvaro624la/API-Generador-textos-ES-EN/
 
 ## Endpoints: 
 /es
+
 /en
